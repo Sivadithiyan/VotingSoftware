@@ -5,6 +5,11 @@
 ## Goal: 
 To create a tkinter based program to create custom polling scenarios and allowing the user/voters to cast their votes to the users/people they willing to vote for
 
+## Important note:
+### Use test_trigger.ipynb to run the code since main.py hasn't been updated. Check the final folder for the most stable version
+
+## Please take a note that i'm not an expert in tkinter and this is a mini project i did during my free time. So i didnt put much efforts on the looks but the functionality for the most part can sustain a stable working environment.
+
 ## Features:
 1. A Login logic with 2 different account tyoes (@voter and @operator) (for operator username: @operator password: operator123*)
 2. A Register system to register the user details and create an voter account (Note: Some of these fields are region specific eg: Aadhar number which is specific to India, which can be altered with no pressure)
