@@ -8,7 +8,7 @@ To create a tkinter based program to create custom polling scenarios and allowin
 ## Important note:
 ### Use test_trigger.ipynb to run the code since main.py hasn't been updated. Check the final folder for the most stable version
 
-## Please take a note that i'm not an expert in tkinter and this is a mini project i did during my free time. So i didnt put much efforts on the looks but the functionality for the most part can sustain a stable working environment.
+#### Please take a note that i'm not an expert in tkinter and this is a mini project i did during my free time. So i didnt put much efforts on the looks but the functionality for the most part can sustain a stable working environment.
 
 ## Features:
 1. A Login logic with 2 different account tyoes (@voter and @operator) (for operator username: @operator password: operator123*)
